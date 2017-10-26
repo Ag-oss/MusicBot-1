@@ -15,7 +15,7 @@
         <repository>
             <id>central1</id>
             <name>maven</name>
-            <ur>http://central.maven.org/maven2/</url>
+            <url>http://central.maven.org/maven2/</url>
         </repository>
     </repositories>
     
