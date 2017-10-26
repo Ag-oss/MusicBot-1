@@ -13,7 +13,7 @@
             <url>http://jcenter.bintray.com</url>
         </repository>
         <repository>
-            <id>central1</id>
+            <id>central</id>
             <name>maven</name>
             <url>http://central.maven.org/maven2/</url>
         </repository>
