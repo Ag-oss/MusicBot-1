@@ -13,7 +13,7 @@
             <url>http://jcenter.bintray.com</url>
         </repository>
         <repository>
-            <id>central</id>
+            <id>central1</id>
             <name>maven</name>
             <url>http://central.maven.org/maven2/</url>
         </repository>
@@ -24,11 +24,6 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-nop</artifactId>
             <version>1.7.22</version>
-        </dependency>
-        <dependency>
-        <groupId>com.oracle</groupId>
-        <artifactId>javaFX</artifactId>
-        <version>2.2</version>
         </dependency>
         <dependency>
             <groupId>net.dv8tion</groupId> 
